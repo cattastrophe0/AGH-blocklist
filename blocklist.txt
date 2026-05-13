@@ -21,6 +21,7 @@
 
 # HP bloat
 ||chat.avatar.ext.hp.com^
+||ips-gw.gbd.hp10.us^
 
 # TP-Link router connectivity checks (cosmetic only, routers function normally)
 ||wikipedia.org^$client='Garage Router'|'Main Router'
