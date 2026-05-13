@@ -1,0 +1,40 @@
+# Hue telemetry/diagnostics
+||data.meethue.com^
+||diagnostics.meethue.com^
+||diag.meethue.com^
+||ws.meethue.com^
+||prod.huedatastore.com^
+
+# Aqara P2P
+||p2p2-usa.aqara.com^
+||p2p3-usa.aqara.com^
+
+# Roborock/Tencent Cloud telemetry
+||anonymousinfo-us-1316693915.cos.na-ashburn.myqcloud.com^
+||ultrone-us-1316693915.cos.na-ashburn.myqcloud.com^
+||conf-us-1316693915.cos.na-ashburn.myqcloud.com^
+
+# Honeywell/Resideo thermostat cloud (10yr old device, no updates needed)
+||provprod02.clouddevice.io^
+||weather02.clouddevice.io^
+||lcc-prodsf-lcc01sf-iothub.azure-devices.net^
+
+# HP bloat
+||chat.avatar.ext.hp.com^
+
+# TP-Link router connectivity checks (cosmetic only, routers function normally)
+||wikipedia.org^$client='Garage Router'|'Main Router'
+||amazon.com^$client='Garage Router'|'Main Router'
+||bing.com^$client='Garage Router'|'Main Router'
+||live.com^$client='Garage Router'|'Main Router'
+||google.com^$client='Garage Router'|'Main Router'
+||reddit.com^$client='Garage Router'|'Main Router'
+||linkedin.com^$client='Garage Router'|'Main Router'
+||tp-link.com^$client='Garage Router'|'Main Router'
+||netflix.com^$client='Garage Router'|'Main Router'
+||ebay.com^$client='Garage Router'|'Main Router'
+||yahoo.com^$client='Garage Router'|'Main Router'
+
+# Allowlist
+@@||sjwgroup.gpcloudservice.com^$important
+! SJW VPN
