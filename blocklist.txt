@@ -17,7 +17,6 @@
 # Honeywell/Resideo thermostat cloud (10yr old device, no updates needed)
 ||provprod02.clouddevice.io^
 ||weather02.clouddevice.io^
-||lcc-prodsf-lcc01sf-iothub.azure-devices.net^
 
 # HP bloat - ccc.hpeprint.com req for email printing
 ||chat.avatar.ext.hp.com^
